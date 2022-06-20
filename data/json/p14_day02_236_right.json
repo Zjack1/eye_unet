@@ -1,0 +1,39 @@
+{
+  "version": "3.16.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eye",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          23.9,
+          16.299999999999997
+        ],
+        [
+          31.200000000000003,
+          20.0
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "p14_day02_236_right.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAAkADwBAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/APUNc8RwaVEWYgtzxnk+wrz6+1+61WRbiV1ihYnCt2HYHP4VRj1l72by9NhnnnwV2QBmIUD27f4VtMfEK2St/Z8cUrMFUzXLMQP9xarTXfjG0cNFqFkqFd/ltGW+uCeaxrjxh41sfnkSGZXG4ZjxkYByPao7b4r3PnqNRtWjdWzuVuPyx/hW+vj6K4zJCzlCeM7ePbk1yXiXxDLf6m0kzBUX7gHOBnOPr1rEl1fdGZrtpY7JTghCN7juF/DvWWPG2qXd2LHRj/Y1iTlUtOJMAclnHzMce+Kwm1K7WcxjUJXXJBAc4PrXvGhfCrSfEHhzTdTh1bUB9otlc7JQdrkfMBkcANniuT1/4d+NPDszvZzyalaquVeInOPRlPT8MiuPXXo7hzBqdpsfJ3FRzn8auQmxWPCySBeoBFXLOyk1bWViZWAd8HtxSXS6Tc+PBp12Gt9IhJtFfuDyC7Hv83P04rlNX0O/8K6y9vcYIA/dzRNlJoz0ZWHUEf4Gq+k6Lc61q0dnp1s9xcXD7YokGT/9YDuegxX2R4W0IeGvC+n6SH3tbQhXbszdWIz2yTUXiPWoNE0yW5kXzZAD5cIYAyN6D+p7CvmbVrG41HVLu9ubcPPdytKVH8BJzgewrQ03wTf3NmJEGVJwOK19LsUF+zMWU7CynsfT8a6FYtEm/canoqySt83mopBUDnkiuni0vw3cWMViXVrc/MLa5wy5wR36HBPPWrujiw8P2rvpemWdvGXKOYECswXoT3br696k1XXNeWVPsFtHLFJH8uTzuz+lctc2UmuyK+tXUkQfASFDnBxz09+v0qn/AGNGdQihtY5JrRmABK53H145Fd1p2lzQ2SRvHGGHYLkCuHtbSAX7Hywd0m3B54ziurOk2jxAyRl2GXyx7/ToayNS0q2QLMgZWO8nB64Ax/OtGxYTIkTopVBuBxznjv8AjVi7u5ba3Cx7QAwHIzxSQwx3xzMoBXkFePfH51vWFvEsakIAT3xWgEUdK//Z",
+  "imageHeight": 36,
+  "imageWidth": 60
+}

@@ -1,0 +1,39 @@
+{
+  "version": "3.16.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eye",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          28.700000000000003,
+          15.100000000000001
+        ],
+        [
+          35.599999999999994,
+          20.200000000000003
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "p14_day02_233_right.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAAkADwBAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/AOq17xgz3n2S02Migh33f571yNzqgCOWkjVixy5z+OfrWp4fgub2NHs9Oa6typ3z3Z2RE56qvUjil1Wa4Vx9r8UaXaw4AxaRI23rjqd3+GM1zNxfXkkpt7fxnJIytkb5RtYgcEH6f55rOXxD4q0+UtDqZuPvAHO7IHB5q9p/xJvIm8q9jZWHQjHWukh8VXk8SyLckgjruxXELf4lCxbpCw+bI5rZ0ryLC6he7tpb7UbhwLawQ8/N0J9O3+c1l/EefxVa6rZaPrF2kaTQLMtpasRFGuSoBHQkYPPP1rzO7fy52RJnJBwck9a6LwNocfiTxPaaRcSyLHdBgJE5KEKTnn6V0fiH4eeKPB+65gLXVogyZIudo65I6ge9YEerxX0e26hxMBwyityxumS2AjaTbntxXQeHEsdC0a98R3EZmubdf9Eg5IaQkAE+uMg49M1u/B2TSJLm8vtRuYW1aWUACcgOGyTlcnv/AEra+MfgG88R21vr2jR+dqNlEY5LcZLTRZzhf9oEnjqc+oAPzbe2E6ahJFPaywTh9rQNGQyt3GDzmvdvgx8OL3S7n/hI9at2tXVGS1t5Rhxnguw7cZAB9SfTPQ/EzXHmsZNI06RTJIMXDqMlVPYe5rxZvDskl2kCR4Ax8x4/P0r03RfAgTTY/MucMfmwicDIB6k81X0fTzBp6zeSs2WKeWejgc4+tdNDdeGzLFIdGVJWBfzBEFYAd8jkV0Ues24iaWyuJCcBQjA4/wAB160241e+S98pBG4YEhwOgx349f8A9dc5d3viswssskLxtLgHGHUE8H3x+lYq6JpqgTXs81xelWfBY4DgcjJ6mn6H4euZLgzx2wIZlKl2HTv/AEr1CK1KRqoUcD0rjNKUfvIW+dAdw3ckbgScGtC/0q0nXLIcg7QQeg9BWLCzW1+qRuQoymOOgzWvDdS+TIflJBOfl646VU1KVpEjc4DOQjEDqMD9afpmnwOIDLul3soIc56nrXZQWsKN8qAdqthFxX//2Q==",
+  "imageHeight": 36,
+  "imageWidth": 60
+}

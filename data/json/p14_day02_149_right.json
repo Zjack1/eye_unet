@@ -1,0 +1,39 @@
+{
+  "version": "3.16.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eye",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          27.200000000000003,
+          14.799999999999997
+        ],
+        [
+          34.900000000000006,
+          18.799999999999997
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "p14_day02_149_right.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAAkADwBAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/AO5uNelv5HWML5S5LO/TH0rC1LWby4uksdKwZW+YySgbIl7k+1X9H8HW94UvLtpLy7PLSXAyoOT92PoPxz/Sl1XRvI3BdZkhjjJ2xRyrGBx0wMDpXI3d3qduGht9VmlgIBxdEShR25YfKD7f0rDPifWrOVXEdpLxgEKU4/4CabF49l8xluYXhZuCVbr+Natn4ulEA2TEDPc5qW11aWWL7HbGR5pTt+Ucdelast9a+E4kW5jea9uRlIIiDI7np09T09B7mvPPGPjbxcurSaXO0mkhQu60t8ptDKCAe5yMdePauMv9QvRORJezNJ3DHkVu+DND1bxZeXVnYXLfaYoDMozw+CBjPbrV/VNO8T+F2jOp2Unkv91nXI44IPp/+o1l/wBr210dksew+gqRZ4wPlkcA8jFexeBtNttL0jUfEV0glS0iZ0iHVmC5P49APrXL+BNZgv8A4knXNflVZpZG8oOp2xk8LjPQDp7V0Hxj+H1/rN5D4s8OxfbZfLVLm3h+Z3A4WRQPvcYBA9AeeceET2c15f8AlC0mW5BEbQ7CXLjrx1z7V9F/Bv4eXXhWxn1fVk8m9u4wiW56xR5B+b0YkDjtj1yBc+JfiCwXS5dOiljmunO1lHO36mvALnTgZWdozluc9KsW+nXHkjahI7E17B4Zb/iQzwEM+4f6th8rfX/PeumtbfQtQWMz6XALgqCWCYPHoRyK2rZrWC2WOyuZbYnG1GO7A+hz71Be6vPFeTQxzD5cfvAgJ5HAHqc/pXCalf8AiYrPZzXTOryH5iSQyt069Kw7nRbRszXNwbiUruxk/K3cf/XrFfSjcXR2KWjB6AZrfg8JXssKvDaOyepYD+ddpoEawPIqD5S33T07/wCFdUllbIkUixKrDoQPUc017dBMnJIxnB9zUFxEJpXikJZPlYdiOOmRz/8ArrIvtrQXh2KDFwpA59a5g2kV3IskudzEkkcd67jRNLtYrOMImMgEnA5J/CtxII4l2IoVR0A4r//Z",
+  "imageHeight": 36,
+  "imageWidth": 60
+}

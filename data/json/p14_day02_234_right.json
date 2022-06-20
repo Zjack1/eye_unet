@@ -1,0 +1,39 @@
+{
+  "version": "3.16.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eye",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          28.700000000000003,
+          16.0
+        ],
+        [
+          36.099999999999994,
+          19.4
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "p14_day02_234_right.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAAkADwBAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/AI7G+ku5TcStE87ZZIimcHqOa7/SRBHMZni+cqpEcbe3JPpzXRg307xlLhLWBTyqx5Zh6Enp+VZ3iC0sLqCWG/vpVh8vEqeeUUg/3ua4K+0fw9KWg+22KnDZAn5XAz0Ldfw4rkNQ02zlnna1mhQ5ypgmwD+prIeHUoDlLuWRQMAM5OAK0rLUtRNsPLZ8D/bFWvC1jf3lxLqHKWtqpkllONsYAyevsK6zw94iv9WvobDw3awi3Mux7u6GcsVJLbRjLYBPXt6VzvxTOr6HfWdhNr17cXk0f2iXa3lxBOi4Ve+Q/PpivILvULxpmSSeXgnqxq7okEmp6raWfnFftMqxBm6KSQAf1rp/Eng7xD4OkLXRBhY4SaJ9yPxn6g/Udj9axodavQmx5GVSMf8A1q3tP0++vbUTRpIVJwCozXXanbXl/wCCLXRdHik3tMslxg7VfjgfTp1PUVsfDDUNT8NtLZajpMqWzHcZlTkvxgenTPP0q58aPCTeJdOt9f0d0lu7CNlniU/NJF1yPdTk477j6YPzlLFLLMzzb2kJ5yOtel/C/wALql/H4j1dTFp9iwkijKkvPL/DgdgDg59cD1xs+Mtdn8WaoLZgY7SJsxpjOB03Niud0/w4s+orC7q6Bhnb356V7VpPhWysdNhhggkK43Hae5rk10jUZdOWaGRotqj5VAIcg8AjvUthrOr6c/8ApES4GPMPXPoOPXP61sL4jt9Ru7WCWH7M4kXzFDZHQ/lWbL4eTUL+6hkSKSPJeMNAu4sT3bqeKxbnw1eWlvFbSasxtiSCFT5fbAzWnYRg2QtbGzJVwF+0Eb2yeGb2Ga3vD3gVbZg13EkvIYEpjocj+ld5HaRKgGwceorltOiRJRbgEx5Zxk5IOfWrtzY27LJuQHkCsuTQbCW7XMbAKgICtjqKz9Q0yC1i3xNKGeQZJc8Z9PSp7DR7Vp2jYyFRtYDd0O0Hj05rrdN0uztINkMCouSTgdT61qxqNo4qQjFf/9k=",
+  "imageHeight": 36,
+  "imageWidth": 60
+}

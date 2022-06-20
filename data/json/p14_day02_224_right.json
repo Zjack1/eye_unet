@@ -1,0 +1,39 @@
+{
+  "version": "3.16.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eye",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          28.700000000000003,
+          15.100000000000001
+        ],
+        [
+          36.400000000000006,
+          18.700000000000003
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "p14_day02_224_right.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAAkADwBAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/ANbWPEk+pXMlvBJmHJJHPzDp/n61Q3pKgElysNvtAeR8kIOcdOv0610GiLc3Kx/2RooMTjBvNR4DccFUHJHpmm6/JqFnHsn8X2tqmB+7gijQZ6HBOW9+v09Bw15r2sNchLfxTO7BccOpB49u/vWU3iLxHY3CD7UbjYSQGXr78da0rL4iTyh4blHjaThufzrpbfXZJYVfztwPTlRgenJri7fUpiWjt9zs3HA5x6cVuWdzDpVykep2sl5fyYWDToxzuJ4B9/Xvzisz4kah4ytbuy07Vb/7Ot5F5i2FoxCxpnAViPvHIPUmvK7yR45SondiOoJrY8K6Wdd8QWWly3EkYum2LIq7ihxxx3rotd8LeKPBMoafE0DLkSIdwHqORxWTHqFtfJmSPbP6jiujsZwLRQlw2B7V03huC28P+GNQ8TTxCeWEbbWLGf3hwAT9CRV34Mrp1xq17qOo3cMurSt8izN8+T8zMAf5j3rp/jD4Gu/FOk22paRGJNSsN37rODNEeqj1IIyB7nvivmO+sJob+WO4tpbeZG2vC6EMp7gg817Z8Ffh5f2uoJ4m1a1a2iSI/Y0k4dy3BcjqBjOM9c5rqfijrKHTH0m02STzj94//PJP6E9PpmvDTozmWJEjKsT97sa9A0XwFe3mmRz7/LDE8cc+9auiQrDp2xYhOpzujzgMB16963bAeHHuIbn+yVjlAzvQbTx3GK6b+27SGCT7JfSKwYEiQluMj17YzUF1rt9/aDwRLFt25WUDcQCOMiuWuNT8ZXCLbSPEUdypYLhiOx9MfSqT+GbGGJ7m7muLi7lUMSWBIbHp9ar6JoU0t4JDbFvm+WNlA4/pxXqdtYFYFABXA6ZrltDsIFEsYB2jA6+uc1q3FjbxxQrFGIwBtGwYwKyLa2jhnJXcSrcZOccVutGqCQrwRk5qnfXDwIfLwMLnpVe1tYkmMm3JldS2QMZOMkV1drbRRINiBcDtVxACtf/Z",
+  "imageHeight": 36,
+  "imageWidth": 60
+}

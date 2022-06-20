@@ -1,0 +1,39 @@
+{
+  "version": "3.16.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eye",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          31.200000000000003,
+          16.5
+        ],
+        [
+          37.900000000000006,
+          19.799999999999997
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "p14_day02_239_right.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAAkADwBAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/ANSfxNNrWoOieZHaEkZ4yOODWoPJd45riV4QSckk7mORwo9eMVuWxvZomNhpyWw3fJJdkksMddg6emCRVPWbPWWQ+d4l+xxkAMIIVQA8fxE56+9cBq6XkUpQeL3kKnJYXw4/AHrXIS6hrkEubfV7mXp83mlg1SxeLtZBMVxIcNgEgcH3x0zXY6Pqcs9grSX/AJLbjwYic+/Fc/oJnv7sfZ4Czeh6emTjoK7vQryeXUTb6dEmqXxID3O791Dkev8AdHPAGfzwNLxn4Y1o+Eb6/ufEVwJ4FMphgAhhwOcdyTjPJPJxXzRqOqXsty6zXU8jg4Yu+7n61DFJLIVbzGPPNdRrGgeI/CsVtNeRvFDPzHlgc9D2PHUdarwavNKmxlUNnJJFej+G4LmTRo3aMkMxK4z0qpe6i2jeDIrPR4Fa91IMLmdBmSOMHG0emcfzrsvg7qulQ6ZJaOqW9+z5IccuAPU/U8V3fjbSJvE/gvUdMsZ1S4mjDRNngsrBgPocYz718f6xY3dtqUsOoW8lrdIdrwum0qceldH4D8LjWNTSe9Hk6TasJLmVgfmA52Ljkk9PbrXSeLdSm8Y63JLv2W8OVghZuQvqR6nH8qh8N+CzqmqCK4ACKNzFf8a9x0/QbezsYrdFULGMDPWvObRrvSbRJLUCYEBtuA23Ht09Of8ACtOy8WQmdzqFhCRKfnXYCVPQgHHQ9a6Cz1uG6a1Nh5ltEXClM/LtweOO/SsDXdMk124uY7xIp/KBjt5pIxuDE9T+H8s1gN4b1RBaW892Ps3KAQKTtxwB75x+tW59FtJilvpFlH+8G0uWBc5GTn9cEV2XhbwZFpSpdPJJvI6Mcj8feu1EIA6VzGlW8UttFvjU5GOnSquoaZZhrpvIUtIhLE85wOKpHS7a2lKRB1G3OQ5znjn61GZ50wRM/wB45GeuOKU27XV6okuZ9uEwoYALyenFdVo2j2VnAjwwgM65J/Wt1EXHSnYFf//Z",
+  "imageHeight": 36,
+  "imageWidth": 60
+}

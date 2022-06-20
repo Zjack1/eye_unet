@@ -1,0 +1,39 @@
+{
+  "version": "3.16.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "eye",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          31.099999999999994,
+          14.799999999999997
+        ],
+        [
+          38.599999999999994,
+          18.4
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "p14_day02_229_right.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAAkADwBAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/AL39u3GsTzzv9xFJSJh1H0/rU1utrcZk1CRorc8MwJZ2PXaMcn8v5V0WkNqUw/4lmkQafDgbbi/G+WX6opGOPU1T10X8NwpvfGYtIy25Ioljjx2GDyWHPfivPdSvLhrqeO18YXM0Y+UZvOTkc9Dgjn+lYB1PX7RtsGqTTJt+6X3Aj/Cr2k+ONQtGKTrlWGCCODXX2GssbRClyVJ++Gjz8351zOjm61C4EVoGLsAB7+39fwrs9GvGS4Gm6ZZ/2lqobY8hG2KL1yewGDx1NXfGnhTxI/hW71K88QS/a1wPslq3k2+wsARkkE4BySfTGO9fOF/PItzIjTSM6sQx3Z5+veo4S7kHexycda6/VPDfiLwpbQXk6OttL0Yj7pOflIPIPFU11VbvBkiHmAcnpmun02TfZhjGx54yM1vancjw14Dt4NMhLajqit506gMYIscgccEj+vtXWfB658Ppp5WErHqf8Ym4c8c7c9q9A8V6N/wk3hTUNJScwyXEWI5FOAHBDLng/LkDPtmvkTxN4c1bRtXe31bT5LSfsAnyOBxlT0I966j4d/D261q+i1DU4Ta6JbHzpZZvl84Dnavc57noBnnNdJ8QtYbxTqS2lqSbSB/kTP3zjGcfn/k1yGm+GptQ1KO1CYfcFJHb1r13TfAsdpYxxmVi3VtpwM/lVaxik01LeaKMNbTMqyBvvsRkcZ7HP61sQ65p8E/myaXHGUfG/wAoKwBHIBxyeORWyurRyNC9hLKoaTD5DEbSP09fzrIvbvVL9L22e5VkVSkLiPLHPQkduorlpbDxK9vHaXt2r2sa75PLOWOB0IPX26VBfaTpNszR6ask8wPEjHke3Tr71ueEPC1+kizTBYhvLMepfg/l1zXo4tGAwDgVzWiQI0BhYZQev+fan6jotkS5EZUAZwDwSc1Rt4hFq6BGYARFlA6A8Dj86mkaRI5phK5kWXywx5wNw/Wsy8DyXXk+dIodGZ2BGWIwvOR6Gt7SPD+nR+W5gDs3zZfBxj0rqYkVUChQB6CnnjgV/9k=",
+  "imageHeight": 36,
+  "imageWidth": 60
+}
